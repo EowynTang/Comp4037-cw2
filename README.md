@@ -5,7 +5,7 @@ The project demonstrates the use of advanced visual designs in data visualizatio
 
 ## Project Structure
 
-- `plot.ipynb`: Jupyter Notebook containing data processing, visualization code, and radar chart generation.
+- `plot.ipynb`: Jupyter Notebook containing data processing, visualization code, and chart generation.
 - `data/Results_21MAR2022_nokcaladjust.csv`: The original dataset provided for coursework analysis.
 - `parallel_coordinates.png`: Parallel Coordinates Plot illustrating the environmental impacts associated with different diet groups.
 - `radar_chart.png`: Generated radar chart showing normalized environmental impacts across diet groups.
