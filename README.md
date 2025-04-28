@@ -1,4 +1,4 @@
-# COMP4037 Coursework 2 - Advanced Visual Designs
+# COMP4037 Coursework 2 - Data Visualization
 
 This repository contains the submission for COMP4037 Coursework 2.  
 The project demonstrates the use of advanced visual designs in data visualization, focusing on environmental impacts across different diet groups.
