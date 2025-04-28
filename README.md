@@ -7,6 +7,7 @@ The project demonstrates the use of advanced visual designs in data visualizatio
 
 - `plot.ipynb`: Jupyter Notebook containing data processing, visualization code, and radar chart generation.
 - `data/Results_21MAR2022_nokcaladjust.csv`: The original dataset provided for coursework analysis.
+- `parallel_coordinates.png`: Parallel Coordinates Plot illustrating the environmental impacts associated with different diet groups.
 - `radar_chart.png`: Generated radar chart showing normalized environmental impacts across diet groups.
 
 ## Visualization Method
@@ -31,12 +32,6 @@ The project demonstrates the use of advanced visual designs in data visualizatio
   - Biodiversity Impact
   - Agricultural Water Use
   - Acidification Potential
-
-## Key Observations
-
-- Vegan and Vegetarian diets show the lowest environmental impact across all categories.
-- Meat100 diets (full meat consumption) have the highest environmental burden, especially in GHG emissions, land use, and biodiversity impact.
-- Reducing meat consumption (Meat50) moderately reduces environmental impact but does not match the benefits of plant-based diets.
 
 ## How to Reproduce
 
